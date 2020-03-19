@@ -1,4 +1,3 @@
---:---F1  *scratch*      All L1     (Fundamental)-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # nmrCV
 
 A dedicated repository for managing a basic controlled vocabulary supporting the  [nmrML format](http://nmrml.org/).
