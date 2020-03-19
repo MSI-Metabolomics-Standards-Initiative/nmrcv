@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="http://nmrML.org/nmrCV" uri="releases/1.1/nmrCV.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="http://purl.obolibrary.org/obo/bfo.owl" uri="ImportedOntologies/bfo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="duplicate:http://purl.obolibrary.org/obo/nmrCV" uri="nmrcv-ontology-as-rdf.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="duplicate:http://purl.obolibrary.org/obo/nmrCV" uri="nmrcv-ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="duplicate:http://purl.obolibrary.org/obo/nmrCV" uri="nmrCV-corrected-namespace.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="http://purl.obolibrary.org/obo/pato.owl" uri="ImportedOntologies/pato.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="http://purl.obolibrary.org/obo/uo.owl" uri="ImportedOntologies/uo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="http://purl.org/biotop/btl2.owl" uri="ImportedOntologies/btl2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1584610163934" name="shadowed:http://purl.obolibrary.org/obo/nmrCV" uri="dev/nmrcv-ontology.owl"/>
+    </group>
+</catalog>
